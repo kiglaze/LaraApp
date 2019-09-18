@@ -1,7 +1,8 @@
-In this project, I am going through the Laravel video tutorial found at laracasts.com/series/laravel-from-scratch-2018/episodes/6?autoplay=true
-The tutorial is titled [Laravel 5.7 From Scratch](laracasts.com/series/laravel-from-scratch-2018/episodes/6?autoplay=true) \
-
-
+# Laravel tutorial work
+<p>In this project, I am going through the Laravel video tutorial found at laracasts.com
+<br>
+The tutorial is titled [Laravel 5.7 From Scratch](https://laracasts.com/series/laravel-from-scratch-2018/episodes/6?autoplay=true) 
+</p>
 
 
 
